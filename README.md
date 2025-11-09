@@ -14,8 +14,3 @@
     <img src="https://img.shields.io/badge/Telegram-@username1313-2CA5E0?logo=telegram&style=for-the-badge" alt="Telegram"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onmitsukido&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/onmitsukido?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-</div>
